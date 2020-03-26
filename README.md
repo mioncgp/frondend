@@ -1,2 +1,2 @@
 # frondend
-react fronen
+fronend made with react.js for the app.
